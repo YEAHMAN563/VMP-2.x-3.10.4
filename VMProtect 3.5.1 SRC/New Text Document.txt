@@ -2,3 +2,4 @@
 
 _CxxThrowException
 返回地址必须填充Nop否则会出错
+CREDITS: **YEAHMAN563 ON GITHUB AND @whois215 ON TELEGRAM&#x20;**
